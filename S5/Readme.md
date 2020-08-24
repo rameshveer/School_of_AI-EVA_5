@@ -1,4 +1,6 @@
 Code 1: (C1)
+https://github.com/rameshveer/School_of_AI-EVA_5/blob/master/S5/EVA5_S5_C1.ipynb
+
 
 Target:
 
@@ -18,6 +20,4 @@ Analysis:
 
 Extremely Heavy Model for such a problem
 Model is over-fitting, but we are changing our model in the next step
-File Link:
 
-https://github.com/rameshveer/School_of_AI-EVA_5/blob/master/S5/EVA5_S5_C1.ipynb
