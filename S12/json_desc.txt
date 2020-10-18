@@ -1,0 +1,16 @@
+  {
+  "filename": "af1a82aa26.jpg",           # This line describes the name of file stored as value with key "filename".
+  "size": 6662,                           # size describes the image size
+  "regions": [                            # regions describe all the boxes we have drawn on the image 
+    {
+      "shape_attributes": {               # Describing the shape attributes
+        "name": "rect",                   # shape of anchor box is rectangle
+        "x": 122,                         # the centre of the box lies at x-co-ord: 122
+        "y": 10,                          # the centre of the box lies at y-co-ord: 10
+        "width": 75,                      # width of the box is 75
+        "height": 46                      # height of the box is 46
+      },
+      "region_attributes": {              # describing what is there in the region enclosed by the boxes
+        "class": "hardhat"                # the object belongs to class hardhat
+      }
+    }
