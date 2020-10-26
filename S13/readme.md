@@ -49,9 +49,9 @@ Assignment 13:
 		
 	OPEN CV object detection with coco dataset:
 	
-	![image](https://github.com/rameshveer/School_of_AI-EVA_5/blob/master/S13/Yolo%20Open%20CV/Annotated_Yolo_Images/me_mobile.jpg)
+	![image](https://github.com/rameshveer/School_of_AI-EVA_5/blob/master/S13/Yolo%20Open%20CV/Annotated_Yolo_Images/me_mobile.png)
 	
-	![image](https://github.com/rameshveer/School_of_AI-EVA_5/blob/master/S13/Yolo%20Open%20CV/Annotated_Yolo_Images/lap_bottle.jpg)
+	![image](https://github.com/rameshveer/School_of_AI-EVA_5/blob/master/S13/Yolo%20Open%20CV/Annotated_Yolo_Images/lap%20ball.png)
 	
 	
 	PPE object detection after Yolo training with custom dataset:
