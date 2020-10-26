@@ -46,3 +46,7 @@ Assignment 13:
 		
 		Share the link of your YouTube video on LinkedIn, Instagram, etc! You have no idea how much you'd love people complimenting you! 
 		
+		
+	PPE object detection after Yolo training:
+	![image] (https://github.com/rameshveer/School_of_AI-EVA_5/blob/master/S13/Yolo%20Open%20CV/Annotated_Yolo_Images/Unknown.jpg)
+		
