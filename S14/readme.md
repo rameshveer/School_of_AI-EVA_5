@@ -19,7 +19,7 @@ Google Drive link - https://drive.google.com/drive/folders/1IhgInibr4296L8YY4pWc
     
       Bounding Boxes & labels for above classes were done using this annotation tool -  https://github.com/miki998/YoloV3_Annotation_Tool
       
-      
+  ![image](https://github.com/rameshveer/School_of_AI-EVA_5/blob/master/S14/_112919912_gettyimages-1220030093.jpg)
 
 ### 2. Depth images created with MiDas model
 
@@ -30,6 +30,9 @@ Google Drive link - https://drive.google.com/drive/folders/1IhgInibr4296L8YY4pWc
         * Pre-trained model was used to compute depth from a single image.
         
         * Depth images were extracted in Grayscale
+        
+   ![image](https://github.com/rameshveer/School_of_AI-EVA_5/blob/master/S14/_112919912_gettyimages-1220030093.png)
+
 
 
 ### 3. Plane images created with plane-rcnn model
@@ -43,6 +46,9 @@ Google Drive link - https://drive.google.com/drive/folders/1IhgInibr4296L8YY4pWc
           To generate plane images with same name as input image.
         
         * 3590 images were segmented.
+        
+   ![image](https://github.com/rameshveer/School_of_AI-EVA_5/blob/master/S14/2297_112919912_gettyimages-1220030093.png)
+
  
  
  #### All the images are placed in below Google drive link,          
